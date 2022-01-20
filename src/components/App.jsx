@@ -9,7 +9,9 @@ const App = () => {
   return (
     <div className="App">
       <img
-        src={"/static/redux-logo.svg"}
+        src={
+          "https://raw.githubusercontent.com/codingdsb/redux-todo/main/static/redux-logo.svg"
+        }
         height="10%"
         style={{ marginBottom: "10px" }}
       />
